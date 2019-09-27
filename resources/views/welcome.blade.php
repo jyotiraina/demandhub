@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel correct vala abcd
                 </div>
 
                 <div class="links">
