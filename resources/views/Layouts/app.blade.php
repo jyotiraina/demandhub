@@ -64,6 +64,10 @@
         </style>
     </head>
     <body>
+            <div id="app">
+                    @include('inc.navbar')
+            
         @yield('content')
+            </div>
     </body>
 </html>
